@@ -1,0 +1,16 @@
+[
+  {
+    "company_id": "JB Chemicals",
+    "ticker": "JBCHEPHARM.NS",
+    "status": "SUCCESS",
+    "endpoint": "https://query2.finance.yahoo.com/v8/finance/chart/JBCHEPHARM.NS?period1=1743532200&period2=1791138600&interval=1d&events=div%2Csplits&includeAdjustedClose=true",
+    "sha256": "304e71cce081c5a6a7c16cfee93c1768553e1697f80d8074f6131781bdeb88ac",
+    "long_name": "J. B. Chemicals & Pharmaceuticals Limited",
+    "currency": "INR",
+    "instrument_type": "EQUITY",
+    "split_events": 0,
+    "invalid_prices_skipped": 0,
+    "last_date": "2026-07-16",
+    "observations": 1
+  }
+]

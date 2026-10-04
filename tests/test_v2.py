@@ -133,8 +133,10 @@ class PipelineTests(unittest.TestCase):
             before=json.loads((out/'dashboard_data.json').read_text())['rows']
             p=pipeline_v2.run(out,AS_OF)
             after=json.loads((out/'dashboard_data.json').read_text())
-            self.assertEqual(before,after['rows']);self.assertEqual(len(p['watchlist']),20)
+            self.assertEqual(before,after['rows']);self.assertEqual(len(p['watchlist']),19)
             self.assertEqual(sum(r['market_data_status']=='CURRENT' for r in p['market']),19)
+            self.assertNotIn('JB Chemicals',{r['company_id'] for r in after['rows']})
+            self.assertNotIn('JB Chemicals',{r['company_id'] for r in p['watchlist']})
             self.assertNotIn('qualitative',p)
             self.assertNotIn('factors',p)
             self.assertTrue(all(not any('qualitative' in key for key in r) for r in p['watchlist']))
@@ -147,12 +149,12 @@ class PipelineTests(unittest.TestCase):
             self.assertEqual(sun['financial_rating'],'VERY LOW')
             latest=[r for r in after['rows'] if r['fiscal_year']=='FY25']
             from collections import Counter
-            self.assertEqual(sorted(Counter(r['peer_group'] for r in latest).values()),[3,3,6,8])
+            self.assertEqual(sorted(Counter(r['peer_group'] for r in latest).values()),[3,3,5,8])
             self.assertEqual(next(r for r in latest if r['company_id']=='Torrent Pharma')['peer_group'],'Global Generics & Diversified')
             self.assertEqual(next(r for r in latest if r['company_id']=='Gland Pharma')['peer_group'],'Complex / Specialty / Healthcare Platforms')
             self.assertFalse(any(r['confirmed_deterioration'] for r in p['watchlist']))
             self.assertNotIn('__V2_SCRIPT__',(out/'dashboard.html').read_text())
-            self.assertEqual(len(list((out/'reports').glob('*.md'))),20)
+            self.assertEqual(len(list((out/'reports').glob('*.md'))),19)
             self.assertTrue(all(a['what_happened'] and a['why_it_matters'] and a['recommended_action'] for a in p['alerts']))
             manifest=json.loads((out/'V2_RUN_STATUS.json').read_text());self.assertEqual(manifest['status'],'SUCCESS')
     def test_bad_monitoring_config_rejected(self):

@@ -1,0 +1,15 @@
+| **JB Chemicals & Pharma** | 506943 | JBCHEMBARM | `[https://www.jbpharma.com/investors/](https://www.jbpharma.com/investors/)` | Integrated Annual Reports, Statutory Disclosures |
+
+### 3. JB Chemicals: Entity Treatment & Usable History Context
+
+When citing qualitative evidence or setting historical baselines for **JB Chemicals & Pharmaceuticals Ltd (JB Pharma)**:
+
+* **Ownership Baseline Shift (2020):** Following KKR's acquisition in July 2020, company reporting shifted strategy toward domestic formulations, acquired portfolios (e.g., Sanofi India’s pediatric brands, Razel), and contract manufacturing (CDMO). Pre-FY21 qualitative disclosures regarding international market concentration do not reflect the current operational model.
+* **Financial Metadata & Entity Type:**
+* **Reporting Entity:** Consolidated Financial Results (includes overseas subsidiaries such as OOO JB Healthcare Russia and Biotech Laboratories South Africa).
+* **Functional Currency:** Indian Rupee (INR) in Crores ($\text{₹ Cr}$).
+* **Key Filing Source:** `[https://www.jbpharma.com/investors/annual-reports/](https://www.jbpharma.com/investors/annual-reports/)`
+
+
+
+---

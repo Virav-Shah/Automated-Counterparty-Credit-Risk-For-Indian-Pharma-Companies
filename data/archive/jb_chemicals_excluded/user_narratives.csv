@@ -1,0 +1,7 @@
+company_id,factor,user_narrative,verification_status,input_file
+JB Chemicals,regulatory,Low (Panoli and Gujarat facilities possess clean US FDA audit track records),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+JB Chemicals,geographic,"Medium (~40% international, CMO/branded formulations in Russia/CIS, US)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+JB Chemicals,customer,Low-Medium (B2B CDMO partners combined with fragmented domestic trade),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+JB Chemicals,fx,Medium (USD and Ruble currency fluctuation exposure),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+JB Chemicals,business,Low (High-margin domestic chronic portfolio supplemented by CDMO scale),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+JB Chemicals,litigation,Low (Virtually no exposure to high-stakes US ANDA litigation),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv

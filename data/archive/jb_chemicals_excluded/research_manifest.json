@@ -1,0 +1,11 @@
+[
+  {
+    "company_id": "JB Chemicals",
+    "source_date": "2026-03-31",
+    "source": "https://jbpharma.com/download/fy-26-annual-report/?wpdmdl=11209",
+    "status": "EXTRACTED",
+    "pages": 262,
+    "selected_pages": 9,
+    "sha256": "6f3341c2b139332959f9e05a39039cb4bb7165a8be16d3e19e1346b78040d84e"
+  }
+]

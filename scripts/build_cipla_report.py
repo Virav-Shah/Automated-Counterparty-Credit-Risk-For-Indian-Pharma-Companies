@@ -324,7 +324,7 @@ def make_document() -> None:
     para(doc, "The four peer groups are defined by business model and operating characteristics, not market capitalization or credit score. Members share meaningful features of revenue generation, geographic exposure, regulatory environment, working-capital patterns and business risks. Credit risk is the outcome compared within a group; it is not the basis used to define the group [1].")
     table(doc, ["Peer group", "Companies", "Operating rationale"], [
         ["Global Generics & Diversified", "Sun Pharma, Dr. Reddy's, Cipla, Zydus, Lupin, Aurobindo, Glenmark, Torrent", "Diversified pharma businesses with significant international/generics exposure across markets and products."],
-        ["India-Focused / Branded Formulations", "Mankind, Alkem, Abbott India, JB Chemicals, Ipca, Ajanta", "Stronger domestic branded-formulation orientation and related commercial characteristics."],
+        ["India-Focused / Branded Formulations", "Mankind, Alkem, Abbott India, Ipca, Ajanta", "Stronger domestic branded-formulation orientation and related commercial characteristics."],
         ["API / CDMO / Contract Manufacturing", "Divi's, Laurus, Piramal Pharma", "Greater exposure to API manufacturing, CDMO and related B2B operations."],
         ["Complex / Specialty / Healthcare Platforms", "Biocon, Gland Pharma, Jubilant Pharmova", "Specialized models involving biologics, specialty products, injectables or diversified healthcare platforms."],
     ], [1.55, 2.5, 2.65], 8)

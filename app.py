@@ -27,7 +27,7 @@ if not DASHBOARD.exists():
 
 with st.expander("About the project data and results"):
     st.write(
-        "The financial extract covers 20 companies over FY21-FY25. Narrative research "
+        "The financial extract covers 19 active companies over FY21-FY25. Narrative research "
         "is preserved without qualitative scoring. Market observations are historical "
         "public prices, shown with their dates. Financial input units and statement "
         "scope have not been fully reconciled to issuer disclosures."
@@ -40,7 +40,7 @@ with st.expander("About the project data and results"):
 
 if REPORT.exists():
     st.download_button(
-        "Download the 15-page analyst report",
+        "Download the analyst report",
         data=REPORT.read_bytes(),
         file_name=REPORT.name,
         mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",

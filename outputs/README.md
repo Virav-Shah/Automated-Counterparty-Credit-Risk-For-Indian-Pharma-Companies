@@ -4,7 +4,7 @@ Do not edit computed CSVs, company reports or dashboard files. Change inputs/tem
 
 ## Financial artifacts
 
-`data_validation.csv`, `credit_metrics.csv`, `credit_scores.csv`, `trend_analysis.csv`, `early_warning_alerts.csv`, `peer_analysis.csv` and `portfolio_summary.csv` contain the original seven-stage results. `reports/*.md` contains 20 company reports. `dashboard_data.json` retains full-precision financial records and, after a full V2 run, a `v2` payload. `dashboard.html` embeds this snapshot for offline use.
+`data_validation.csv`, `credit_metrics.csv`, `credit_scores.csv`, `trend_analysis.csv`, `early_warning_alerts.csv`, `peer_analysis.csv` and `portfolio_summary.csv` contain the original seven-stage results. `reports/*.md` contains 19 company reports. `dashboard_data.json` retains full-precision financial records and, after a full V2 run, a `v2` payload. `dashboard.html` embeds this snapshot for offline use.
 
 ## Independent monitoring artifacts
 

@@ -2,13 +2,13 @@
   "status": "SUCCESS",
   "version": "2.1.0",
   "as_of": "2026-10-04",
-  "companies": 20,
+  "companies": 19,
   "market_complete_companies": 19,
-  "financial_payload_sha256": "9787ee18fdb6e20eff1fa4a469615dbeeb97497c6a9a9a89f6b7334927e8290e",
+  "financial_payload_sha256": "fb2f335e6a5b15c152aaaf3bade703b4db59680373407d7225ac6cfb44195016",
   "source_hashes": {
-    "data/market_data.csv": "58afff2ab6e32d531e18f6a65219a5fbfb13e2cb8389352ba5b6fb32c71f07d6",
+    "data/market_data.csv": "9faef487d2462931b859992130863f93fbb2352410e5327a9e70a294c19a4e84",
     "config/monitoring.json": "9657b5baa34f3119caa89b21b6057929e7b5a5a24b0be8fe918562e37eb20e8e",
-    "config/tickers.csv": "17422794295e2616e049d023e2c249a36e99940f7b41cec9325df03a6d1e2f29",
-    "config/entity_events.csv": "5e2b342e3a168528b39396a919642bf78da88ace5b692252e2ac6833c176cffc"
+    "config/tickers.csv": "3fd9332d6a942b9f346b43f111864b2e43aa59cb52389ff0465c6e1650528c32",
+    "config/entity_events.csv": "d31c357cc967c649e70b09f343fad6dfc7a74df8bf603a6d1ffdfb96f4e22078"
   }
 }

@@ -8,11 +8,11 @@ Sun Pharma, Dr. Reddy’s, Cipla, Zydus Lifesciences, Lupin, Aurobindo Pharma, G
 
 The comparison focuses on multi-market formulation/generics businesses, international commercial operations, regulatory approvals, product portfolios, currency exposures and recurring investment requirements. Within the group, Sun’s specialty portfolio, Cipla’s respiratory franchises, Torrent’s branded-market orientation and other companies’ generic/API mixes remain issuer-specific differences. Torrent’s membership is the user’s analytical classification; it does not imply the same export mix as Aurobindo.
 
-## India-Focused / Branded Formulations — 6 companies
+## India-Focused / Branded Formulations — 5 companies
 
-Mankind Pharma, Alkem Labs, Abbott India, JB Chemicals, Ipca Labs and Ajanta Pharma.
+Mankind Pharma, Alkem Labs, Abbott India, Ipca Labs and Ajanta Pharma.
 
-The comparison focuses on domestic branded-formulation franchises, commercial distribution, therapy portfolios and the collection/inventory patterns associated with those activities. Export intensity varies substantially; Ajanta’s international branded business and Ipca’s exports require issuer-specific discussion. The group represents comparable operating characteristics rather than uniformly domestic revenues. JB’s subsequent entity transition is a separate credit-review issue and does not rewrite its FY21–FY25 historical classification.
+The comparison focuses on domestic branded-formulation franchises, commercial distribution, therapy portfolios and the collection/inventory patterns associated with those activities. Export intensity varies substantially; Ajanta’s international branded business and Ipca’s exports require issuer-specific discussion. The group represents comparable operating characteristics rather than uniformly domestic revenues.
 
 ## API / CDMO / Contract Manufacturing — 3 companies
 

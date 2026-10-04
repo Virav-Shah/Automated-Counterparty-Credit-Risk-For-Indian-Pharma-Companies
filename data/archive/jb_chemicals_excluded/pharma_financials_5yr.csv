@@ -1,0 +1,6 @@
+company_id,fiscal_year,revenue,ebitda,ebit,interest_expense,cash,total_debt,current_assets,current_liabilities,receivables,inventory,operating_cash_flow,capex
+JB Chemicals,FY21,2043,561,492,7,620,30,1480,490,380,390,480,85
+JB Chemicals,FY22,2424,543,465,8,310,320,1620,620,450,480,410,380
+JB Chemicals,FY23,3149,765,655,42,280,480,1850,780,590,570,620,420
+JB Chemicals,FY24,3484,942,815,38,420,350,2150,820,670,610,810,210
+JB Chemicals,FY25,3920,1120,980,28,650,210,2480,890,740,680,980,240

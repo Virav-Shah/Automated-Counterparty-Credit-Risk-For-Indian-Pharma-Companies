@@ -15,7 +15,7 @@ class MonitoringTests(unittest.TestCase):
         cls.trends=crm.trends(cls.scores)
 
     def test_source_coverage(self):
-        self.assertEqual(len(self.rows),100)
+        self.assertEqual(len(self.rows),95)
         self.assertTrue(all(c['result']=='PASS' for c in self.checks))
 
     def test_independent_metric_calculation(self):
@@ -30,7 +30,7 @@ class MonitoringTests(unittest.TestCase):
 
     def test_first_year_not_fabricated(self):
         first=[r for r in self.scores if r['fiscal_year']=='FY21']
-        self.assertEqual(len(first),20)
+        self.assertEqual(len(first),19)
         self.assertTrue(all(r['financial_risk_score'] is None and r['risk_rating']=='NOT SCORED' and r['score_available_points']==80 for r in first))
         self.assertTrue(all(r['score_change'] is None for r in self.trends if r['fiscal_year']=='FY22'))
 
@@ -121,10 +121,10 @@ class MonitoringTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             out=Path(tmp)/'outputs'
             rows,alerts=crm.run(output=out)
-            self.assertEqual(len(rows),100)
-            self.assertEqual(len(list((out/'reports').glob('*.md'))),20)
+            self.assertEqual(len(rows),95)
+            self.assertEqual(len(list((out/'reports').glob('*.md'))),19)
             payload=json.loads((out/'dashboard_data.json').read_text())
-            self.assertEqual(len(payload['rows']),100)
+            self.assertEqual(len(payload['rows']),95)
             self.assertNotIn('__CRM_DATA__',(out/'dashboard.html').read_text())
             self.assertTrue(json.loads((out/'RUN_STATUS.json').read_text())['dashboard_refreshed'])
             before=(out/'credit_scores.csv').read_bytes()

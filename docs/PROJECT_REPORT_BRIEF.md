@@ -1,6 +1,6 @@
 # Finance project report — working brief and analysis points
 
-This is the working foundation for the next comprehensive report, covering the **20 studied Indian pharma/biopharma companies**, not every company in the sector. The final report should emphasize financial analysis, business risk and credit decisions rather than software implementation. It should use dated primary sources for industry statistics, issuer business mixes and regulatory developments. No qualitative score is used.
+This is the working foundation for the next comprehensive report, covering the **19-company active Indian pharma/biopharma sample**, not every company in the sector. The final report should emphasize financial analysis, business risk and credit decisions rather than software implementation. It should use dated primary sources for industry statistics, issuer business mixes and regulatory developments. No qualitative score is used.
 
 ## 1. Research objective and scope
 
@@ -25,7 +25,7 @@ Research themes and their credit implications:
 | Working capital | Are collections and inventories absorbing cash faster than sales grow? | Receivable ageing, inventory notes, operating cash flow and growth trends |
 | M&A and legal entities | Does an acquisition change debt, integration risk or who owes the exposure? | Acquisition terms, corporate filings and entity mapping |
 
-Do not insert market-size, export-share or growth statistics without a dated primary source and period. Existing regulatory research describes dated events; a warning letter’s presence does not prove that it remains unresolved. Industry-wide conclusions should not be inferred from only 20 companies.
+Do not insert market-size, export-share or growth statistics without a dated primary source and period. Existing regulatory research describes dated events; a warning letter’s presence does not prove that it remains unresolved. Industry-wide conclusions should not be inferred from only 19 active companies.
 
 ## 3. How the P&L analysis was performed
 
@@ -233,14 +233,6 @@ Revenue changed from 5,420.00 in FY21 to 8,650.00 in FY25; four-year CAGR is 12.
 
 Discussion points: assess growth alongside margins, cash conversion and borrowing; compare against the other companies in this business-model group; identify why each scoring category contributes points. Verify whether acquisitions/product mix/working-capital changes explain trends before drawing conclusions. Review source-dated qualitative evidence narratively without assigning a qualitative score.
 
-### JB Chemicals
-
-Peer group: **India-Focused / Branded Formulations**. FY25 internal financial score: **0/100, VERY LOW**.
-
-Revenue changed from 2,043.00 in FY21 to 3,920.00 in FY25; four-year CAGR is 17.7%. FY25 EBITDA margin is 28.6% and EBIT margin 25.0%. Debt/EBITDA is 0.19x, net debt/EBITDA -0.39x, and interest coverage 35.00x. Current ratio is 2.79x. OCF is 980.00, capex 240.00, and FCF 740.00; FCF/debt is 352.4%.
-
-Discussion points: assess growth alongside margins, cash conversion and borrowing; compare against the other companies in this business-model group; identify why each scoring category contributes points. Verify whether acquisitions/product mix/working-capital changes explain trends before drawing conclusions. Review source-dated qualitative evidence narratively without assigning a qualitative score.
-
 ### Mankind Pharma
 
 Peer group: **India-Focused / Branded Formulations**. FY25 internal financial score: **20/100, LOW**.
@@ -251,9 +243,9 @@ Discussion points: assess growth alongside margins, cash conversion and borrowin
 
 ## 11. Findings and limitations to emphasize
 
-The extract yields 100 company-year observations and 80 full financial scores. FY25’s highest financial score is Biocon at 25/100, LOW; absence of a high FY25 band is a result of the supplied data and thresholds, not proof of universally low sector risk. Earlier periods show different stress and must be discussed alongside recoveries. Historical alerts are rule counts, not the number of distressed companies.
+The active extract yields 95 company-year observations and 76 full financial scores. FY25’s highest financial score is Biocon at 25/100, LOW; absence of a high FY25 band is a result of the supplied data and thresholds, not proof of universally low sector risk. Earlier periods show different stress and must be discussed alongside recoveries. Historical alerts are rule counts, not the number of distressed companies.
 
-After removing qualitative influence, the October 2026 snapshot has 18 WATCH, one ENHANCED MONITORING and one CREDIT REVIEW. Stale financial data contributes to WATCH; Mankind’s historical HIGH financial alert supports enhanced monitoring, and JB’s documented entity event requires review. No active qualitative index or qualitative-based escalation remains.
+After removing qualitative influence, the October 2026 snapshot has 18 WATCH and one ENHANCED MONITORING entry. Stale financial data contributes to WATCH; Mankind’s historical HIGH financial alert supports enhanced monitoring. No active qualitative index or qualitative-based escalation remains.
 
 Important limits: the selected sample is not the whole sector; monetary metadata/statement scope are unconfirmed; FY26 financials are missing; FY20 growth is absent; qualitative narratives include unverified/stale claims; approved limits/exposures are missing; small peer groups are heterogeneous; thresholds are policy assumptions rather than validated defaults. Explain how additional sources would strengthen the analysis, not just list limitations.
 

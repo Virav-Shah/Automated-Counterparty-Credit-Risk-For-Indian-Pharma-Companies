@@ -50,11 +50,6 @@ Ipca Labs,FY23,DEBT_ACCELERATION,MEDIUM,debt_growth,5.5,0.2,Debt growth exceeds 
 Ipca Labs,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.15384615384615374,0.07101200686106357,Receivables grew faster than revenue
 Ipca Labs,FY24,DEBT_ACCELERATION,MEDIUM,debt_growth,2.141025641025641,0.2,Debt growth exceeds the threshold
 Ipca Labs,FY24,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.3142857142857143,0.23622677770659828,Receivables grew faster than revenue
-JB Chemicals,FY22,WEAK_CASH_GENERATION,MEDIUM,fcf_debt,0.09375,0.1,Free cash flow supports less than the threshold share of debt
-JB Chemicals,FY22,DEBT_ACCELERATION,MEDIUM,debt_growth,9.666666666666666,0.2,Debt growth exceeds the threshold
-JB Chemicals,FY23,DEBT_ACCELERATION,MEDIUM,debt_growth,0.5,0.2,Debt growth exceeds the threshold
-JB Chemicals,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.3111111111111111,0.2990924092409242,Receivables grew faster than revenue
-JB Chemicals,FY24,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.13559322033898313,0.1063829787234043,Receivables grew faster than revenue
 Jubilant Pharmova,FY22,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.0714285714285714,0.0050828004590917075,Receivables grew faster than revenue
 Jubilant Pharmova,FY23,HIGH_LEVERAGE,HIGH,debt_ebitda,4.1688311688311686,3,Debt / EBITDA exceeds the leverage threshold
 Jubilant Pharmova,FY23,WEAK_COVERAGE,HIGH,interest_coverage,1.5510204081632653,3,EBIT interest coverage is weak

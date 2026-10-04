@@ -117,7 +117,7 @@ The four peer groups are defined by business model and operating characteristics
 
 | Global Generics & Diversified | Sun Pharma, Dr. Reddy's, Cipla, Zydus, Lupin, Aurobindo, Glenmark, Torrent | Diversified pharma businesses with significant international/generics exposure across markets and products. |
 
-| India-Focused / Branded Formulations | Mankind, Alkem, Abbott India, JB Chemicals, Ipca, Ajanta | Stronger domestic branded-formulation orientation and related commercial characteristics. |
+| India-Focused / Branded Formulations | Mankind, Alkem, Abbott India, Ipca, Ajanta | Stronger domestic branded-formulation orientation and related commercial characteristics. |
 
 | API / CDMO / Contract Manufacturing | Divi's, Laurus, Piramal Pharma | Greater exposure to API manufacturing, CDMO and related B2B operations. |
 

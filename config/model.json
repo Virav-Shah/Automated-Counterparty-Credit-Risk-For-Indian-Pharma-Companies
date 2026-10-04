@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "expected_companies": 20,
+  "expected_companies": 19,
   "expected_years": [
     "FY21",
     "FY22",

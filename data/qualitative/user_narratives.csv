@@ -65,12 +65,6 @@ Abbott India,customer,Low (Nationwide trade channel and hospital distribution ne
 Abbott India,fx,Low (INR revenue base; minor FX risk on imported active raw materials),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
 Abbott India,business,"Very Low (Monopoly/legacy positions in key therapies like Thyronorm, Duphaston)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
 Abbott India,litigation,"Low (Routine domestic regulatory, NPPA price ceiling, or tax matters)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
-JB Chemicals,regulatory,Low (Panoli and Gujarat facilities possess clean US FDA audit track records),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
-JB Chemicals,geographic,"Medium (~40% international, CMO/branded formulations in Russia/CIS, US)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
-JB Chemicals,customer,Low-Medium (B2B CDMO partners combined with fragmented domestic trade),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
-JB Chemicals,fx,Medium (USD and Ruble currency fluctuation exposure),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
-JB Chemicals,business,Low (High-margin domestic chronic portfolio supplemented by CDMO scale),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
-JB Chemicals,litigation,Low (Virtually no exposure to high-stakes US ANDA litigation),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
 Ipca Labs,regulatory,High (Historical US FDA import alerts at Ratlam API and Indore/Silvassa sites),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
 Ipca Labs,geographic,"Medium (~46% export, strong presence in UK, Europe, Global Fund, ROW)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
 Ipca Labs,customer,Low (Institutional tenders combined with retail pharmacy distribution),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv

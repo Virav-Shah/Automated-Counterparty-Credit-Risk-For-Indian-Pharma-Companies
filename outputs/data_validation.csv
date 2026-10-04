@@ -1,9 +1,9 @@
 check,result,detail
 Required columns exactly once,PASS,"company_id, fiscal_year, revenue, ebitda, ebit, interest_expense, cash, total_debt, current_assets, current_liabilities, receivables, inventory, operating_cash_flow, capex"
 "No missing, nonnumeric or non-finite values",PASS,All inputs populated and finite
-Unique company/year keys,PASS,100 rows / 100 unique keys
-Expected company count,PASS,20 observed; 20 expected
-Expected row count,PASS,100 observations
+Unique company/year keys,PASS,95 rows / 95 unique keys
+Expected company count,PASS,19 observed; 19 expected
+Expected row count,PASS,95 observations
 Valid fiscal years,PASS,"FY21, FY22, FY23, FY24, FY25"
 Complete year coverage per company,PASS,Each company must have 5 distinct configured years
 revenue > 0,PASS,All positive

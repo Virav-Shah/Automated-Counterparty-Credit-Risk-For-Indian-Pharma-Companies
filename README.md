@@ -1,6 +1,6 @@
 # Counterparty Credit Monitoring & Early-Warning System
 
-A finance-focused monitoring project covering 20 Indian pharmaceutical and biopharmaceutical businesses over FY21–FY25. The supplied company financial and narrative records are simulated; cached market prices are public historical observations. Financial analysis produces an internal credit-risk score; independent market signals guide review intensity. Peer comparisons use business models and operating characteristics.
+A finance-focused monitoring project covering 19 Indian pharmaceutical and biopharmaceutical businesses over FY21–FY25. The supplied company financial and narrative records are simulated; cached market prices are public historical observations. Financial analysis produces an internal credit-risk score; independent market signals guide review intensity. Peer comparisons use business models and operating characteristics.
 
 ## Run and verify
 
@@ -37,7 +37,7 @@ Actual credit-limit utilization is not implemented because approved limits, outs
 | Group | Companies | Count |
 |---|---|---:|
 | Global Generics & Diversified | Sun, Dr. Reddy’s, Cipla, Zydus, Lupin, Aurobindo, Glenmark, Torrent | 8 |
-| India-Focused / Branded Formulations | Mankind, Alkem, Abbott India, JB Chemicals, Ipca, Ajanta | 6 |
+| India-Focused / Branded Formulations | Mankind, Alkem, Abbott India, Ipca, Ajanta | 5 |
 | API / CDMO / Contract Manufacturing | Divi’s, Laurus, Piramal Pharma | 3 |
 | Complex / Specialty / Healthcare Platforms | Biocon, Gland, Jubilant Pharmova | 3 |
 
@@ -45,9 +45,9 @@ Groups follow revenue sources, geography, regulation, working capital and operat
 
 ## Delivered snapshot — 2026-10-04
 
-100 financial observations; 19 financial validation checks pass; 80 full financial scores and 20 FY21 core-only records; 108 historical financial alerts. Nineteen companies have complete market stress inputs dated 2026-10-01. JB’s history remains insufficient following its entity transition.
+95 financial observations; 19 financial validation checks pass; 76 full financial scores and 19 FY21 core-only records; 103 historical financial alerts. All 19 active companies have complete market stress inputs dated 2026-10-01. The active universe excludes the archived source records of one entity.
 
-Current priority: 18 WATCH, 1 ENHANCED MONITORING (Mankind), 1 CREDIT REVIEW (JB Chemicals). Removing the qualitative overlay removes Sun’s former qualitative-driven escalation. Its financial score remains 6/100, VERY LOW. All FY25 financial inputs are stale under the 540-day policy at this snapshot date; no current combined deterioration is confirmed.
+Current priority: 18 WATCH and 1 ENHANCED MONITORING (Mankind). Removing the qualitative overlay removes Sun’s former qualitative-driven escalation. Its financial score remains 6/100, VERY LOW. All FY25 financial inputs are stale under the 540-day policy at this snapshot date; no current combined deterioration is confirmed.
 
 FY21 full scores are unavailable because FY20 growth inputs were not supplied. Currency, units and standalone/consolidated scope for the original financial CSV are unconfirmed. Amounts remain in source units. Group labels are project analytical classifications, not identical business mixes.
 

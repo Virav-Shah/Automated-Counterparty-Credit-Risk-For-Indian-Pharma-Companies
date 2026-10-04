@@ -27,9 +27,9 @@ FY21 total score is unavailable because FY20 growth inputs were not supplied. Th
 
 ## Peer position
 
-India-Focused / Branded Formulations (USER_DEFINED_BUSINESS_MODEL assignment). 5 other companies.
+India-Focused / Branded Formulations (USER_DEFINED_BUSINESS_MODEL assignment). 4 other companies.
 
-ABOVE PEER MEDIAN. Peer median score: 2.00.
+AT PEER MEDIAN. Peer median score: 4.00.
 
 Peers exclude the company itself. A small peer group limits comparison strength.
 

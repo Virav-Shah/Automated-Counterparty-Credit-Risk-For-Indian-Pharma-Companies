@@ -97,15 +97,6 @@
     "sha256": "29a1478994be438e2e6de0b6115f99931d4b1f90b1c0ffe526a51d2eb24f1933"
   },
   {
-    "company_id": "JB Chemicals",
-    "source_date": "2026-03-31",
-    "source": "https://jbpharma.com/download/fy-26-annual-report/?wpdmdl=11209",
-    "status": "EXTRACTED",
-    "pages": 262,
-    "selected_pages": 9,
-    "sha256": "6f3341c2b139332959f9e05a39039cb4bb7165a8be16d3e19e1346b78040d84e"
-  },
-  {
     "company_id": "Ipca Labs",
     "source_date": "2025-03-31",
     "source": "https://www.ipca.com/wp-content/pdf/financials/annual-reports/annual_report_2024_25.pdf",

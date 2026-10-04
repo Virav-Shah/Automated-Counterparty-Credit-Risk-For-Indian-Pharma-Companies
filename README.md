@@ -53,10 +53,11 @@ FY21 full scores are unavailable because FY20 growth inputs were not supplied. C
 
 ## Documentation
 
-- [Professional analyst report](reports/Indian_Pharma_Counterparty_Credit_Report.docx): finance interview report with Biocon and Laurus case studies, 18 company summaries, sector/peer analysis, credit reviews and proposed limit monitoring. [Readable Markdown copy](reports/Indian_Pharma_Counterparty_Credit_Report.md) and [report build instructions](reports/README.md).
+- [Professional analyst report](reports/Indian_Pharma_Counterparty_Credit_Report.docx): the original report format, now focused on Cipla for detailed company analysis, with sector and peer-group context, statement-analysis methods, seven-peer benchmarking, moderate/severe stress testing, an audited FY25-FY26 retrospective check, counterparty review and proposed credit-limit monitoring. [Readable Markdown copy](reports/Indian_Pharma_Counterparty_Credit_Report.md) and [report build instructions](reports/README.md).
+- Reproduce Cipla stress calculations with `python3 scripts/cipla_stress_test.py`, then rebuild the original report using `python3 scripts/build_cipla_report.py`.
 - [Streamlit Community Cloud deployment guide](docs/STREAMLIT_DEPLOYMENT.md): local setup and public-hosting instructions for `app.py`.
 - [Independent calculation validation](reports/result_validation.json): 757 numerical comparisons pass against project inputs. [External reconciliation](reports/external_benchmarks.json) identifies differences from Biocon/Laurus FY25 disclosures; results remain provisional. The report distinguishes peer/index benchmarking, a dated CARE rating comparison, calculation testing and source validation.
-- [Finance report working brief](docs/PROJECT_REPORT_BRIEF.md): report scope, all-company analysis points, peer rationale, sector research agenda, credit reviews and limit-monitoring framework.
+- [Finance report working brief](docs/PROJECT_REPORT_BRIEF.md): background research and initial all-company analysis plan; the delivered report's issuer-level scope is Cipla only.
 - [Methodology](docs/METHODOLOGY.md): financial/market formulas, score thresholds and priority rules.
 - [Peer groups](docs/PEER_GROUPS.md): user assignments and comparability limits.
 - [Source code](src/README.md), [architecture](docs/ARCHITECTURE.md), [configuration](config/README.md).

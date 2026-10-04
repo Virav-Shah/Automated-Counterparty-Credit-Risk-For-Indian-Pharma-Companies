@@ -1,0 +1,22 @@
+company_id,ticker,instrument,provider_url
+Sun Pharma,SUNPHARMA.NS,EQUITY,https://finance.yahoo.com/quote/SUNPHARMA.NS/
+Dr. Reddy's,DRREDDY.NS,EQUITY,https://finance.yahoo.com/quote/DRREDDY.NS/
+Cipla,CIPLA.NS,EQUITY,https://finance.yahoo.com/quote/CIPLA.NS/
+Zydus Lifesciences,ZYDUSLIFE.NS,EQUITY,https://finance.yahoo.com/quote/ZYDUSLIFE.NS/
+Lupin,LUPIN.NS,EQUITY,https://finance.yahoo.com/quote/LUPIN.NS/
+Aurobindo Pharma,AUROPHARMA.NS,EQUITY,https://finance.yahoo.com/quote/AUROPHARMA.NS/
+Glenmark Pharma,GLENMARK.NS,EQUITY,https://finance.yahoo.com/quote/GLENMARK.NS/
+Torrent Pharma,TORNTPHARM.NS,EQUITY,https://finance.yahoo.com/quote/TORNTPHARM.NS/
+Mankind Pharma,MANKIND.NS,EQUITY,https://finance.yahoo.com/quote/MANKIND.NS/
+Alkem Labs,ALKEM.NS,EQUITY,https://finance.yahoo.com/quote/ALKEM.NS/
+Abbott India,ABBOTINDIA.NS,EQUITY,https://finance.yahoo.com/quote/ABBOTINDIA.NS/
+JB Chemicals,JBCHEPHARM.NS,EQUITY,https://finance.yahoo.com/quote/JBCHEPHARM.NS/
+Ipca Labs,IPCALAB.NS,EQUITY,https://finance.yahoo.com/quote/IPCALAB.NS/
+Ajanta Pharma,AJANTPHARM.NS,EQUITY,https://finance.yahoo.com/quote/AJANTPHARM.NS/
+Divi's Labs,DIVISLAB.NS,EQUITY,https://finance.yahoo.com/quote/DIVISLAB.NS/
+Laurus Labs,LAURUSLABS.NS,EQUITY,https://finance.yahoo.com/quote/LAURUSLABS.NS/
+Piramal Pharma,PPLPHARMA.NS,EQUITY,https://finance.yahoo.com/quote/PPLPHARMA.NS/
+Biocon,BIOCON.NS,EQUITY,https://finance.yahoo.com/quote/BIOCON.NS/
+Gland Pharma,GLAND.NS,EQUITY,https://finance.yahoo.com/quote/GLAND.NS/
+Jubilant Pharmova,JUBLPHARMA.NS,EQUITY,https://finance.yahoo.com/quote/JUBLPHARMA.NS/
+NIFTY Pharma,^CNXPHARMA,BENCHMARK,https://finance.yahoo.com/quote/%5ECNXPHARMA/

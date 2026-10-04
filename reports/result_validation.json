@@ -1,0 +1,165 @@
+{
+  "as_of": "2026-10-04",
+  "status": "PASS",
+  "counts": {
+    "financial_metric_checks": 600,
+    "score_reconciliations": 80,
+    "peer_median_checks": 20,
+    "market_endpoint_checks": 57
+  },
+  "market_windows": [
+    {
+      "company_id": "Sun Pharma",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": -0.018950272631804377,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": -0.08528751743421215
+    },
+    {
+      "company_id": "Dr. Reddy's",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": -0.08829105330945086,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": -0.15462829811185863
+    },
+    {
+      "company_id": "Cipla",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": -0.0405200306474518,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": -0.10685727544985957
+    },
+    {
+      "company_id": "Zydus Lifesciences",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": 0.06876334164378384,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": 0.0024260968413760686
+    },
+    {
+      "company_id": "Lupin",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": -0.1054880306618734,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": -0.17182527546428117
+    },
+    {
+      "company_id": "Aurobindo Pharma",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": 0.1527568245370563,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": 0.08641957973464853
+    },
+    {
+      "company_id": "Glenmark Pharma",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": -0.0015749510317910609,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": -0.06791219583419883
+    },
+    {
+      "company_id": "Torrent Pharma",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": 0.044651508563132936,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": -0.021685736239274833
+    },
+    {
+      "company_id": "Mankind Pharma",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": 0.03153611393692768,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": -0.03480113086548009
+    },
+    {
+      "company_id": "Alkem Labs",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": -0.03169295858462484,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": -0.09803020338703261
+    },
+    {
+      "company_id": "Abbott India",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": -0.008552215453003886,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": -0.07488946025541166
+    },
+    {
+      "company_id": "Ipca Labs",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": 0.24121344494150776,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": 0.1748762001391
+    },
+    {
+      "company_id": "Ajanta Pharma",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": 0.17274217099894162,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": 0.10640492619653386
+    },
+    {
+      "company_id": "Divi's Labs",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": 0.3745490089790018,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": 0.308211764176594
+    },
+    {
+      "company_id": "Laurus Labs",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": 0.4628031619656894,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": 0.3964659171632816
+    },
+    {
+      "company_id": "Piramal Pharma",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": 0.10314272715005779,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": 0.03680548234765002
+    },
+    {
+      "company_id": "Biocon",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": -0.13697631965110446,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": -0.20331356445351223
+    },
+    {
+      "company_id": "Gland Pharma",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": 0.24094414922770513,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": 0.17460690442529736
+    },
+    {
+      "company_id": "Jubilant Pharmova",
+      "start_date": "2026-05-25",
+      "end_date": "2026-10-01",
+      "return_90": -0.002756583286372072,
+      "benchmark_return_90": 0.06633724480240777,
+      "relative_return_90": -0.06909382808877984
+    }
+  ],
+  "scope": "Independent arithmetic verification against project inputs; issuer-data accuracy and default prediction are not certified."
+}

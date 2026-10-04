@@ -1,0 +1,176 @@
+[
+  {
+    "company_id": "Sun Pharma",
+    "source_date": "2026-03-31",
+    "source": "https://sunpharma.com/wp-content/uploads/2026/07/Sun-Pharma_AR-2025-26.pdf",
+    "status": "EXTRACTED",
+    "pages": 344,
+    "selected_pages": 17,
+    "sha256": "01d9d5b6d41c8326e10f3b36dff5cbae645af4aaae46fd754689a7b7bb957595"
+  },
+  {
+    "company_id": "Dr. Reddy's",
+    "source_date": "2025-03-31",
+    "source": "https://www.drreddys.com/cms/cms/sites/default/files/2025-06/Integrated%20Annual%20Report%202024-25.pdf",
+    "status": "EXTRACTED",
+    "pages": 255,
+    "selected_pages": 15,
+    "sha256": "146edbd29325925bf415531925d3daf87ec0686d734fd89f5f31e1657811b320"
+  },
+  {
+    "company_id": "Cipla",
+    "source_date": "2025-03-31",
+    "source": "https://www.cipla.com/sites/default/files/Cipla-AR-2024-25.pdf",
+    "status": "EXTRACTED",
+    "pages": 440,
+    "selected_pages": 9,
+    "sha256": "b77c5d28ed285ea6f40aca2d6490fb6f17a6550f1a8f29851a1451d5937a987a"
+  },
+  {
+    "company_id": "Zydus Lifesciences",
+    "source_date": "2026-03-31",
+    "source": "https://www.zyduslife.com/investor/admin/uploads/14/2/2025-2026.pdf",
+    "status": "EXTRACTED",
+    "pages": 446,
+    "selected_pages": 10,
+    "sha256": "a44f55b94596c3fb2928a153aabb986ddf3251227e23cd018c8c503b04ea44d1"
+  },
+  {
+    "company_id": "Lupin",
+    "source_date": "2025-03-31",
+    "source": "https://www.lupin.com/wp-content/uploads/2025/07/integrated-report-consolidated.pdf",
+    "status": "EXTRACTED",
+    "pages": 420,
+    "selected_pages": 10,
+    "sha256": "c2c86350b2f91a23b7ddb3e0224e35cb0afb0d869472d1bef8489e4d0145a4e6"
+  },
+  {
+    "company_id": "Aurobindo Pharma",
+    "source_date": "2025-03-31",
+    "source": "https://www.aurobindo.com/api/uploads/annualreports/AurobindoPharmaIR2025-website.pdf",
+    "status": "UNAVAILABLE",
+    "error": "curl: (28) Operation timed out after 60002 milliseconds with 19004269 out of 26780546 bytes received\n"
+  },
+  {
+    "company_id": "Glenmark Pharma",
+    "source_date": "2025-03-31",
+    "source": "https://glenmarkpharma.com/gpl_pdfs/investors/reports_presentations/Integrated_Annual_Report_FY_2024-25.pdf",
+    "status": "EXTRACTED",
+    "pages": 411,
+    "selected_pages": 23,
+    "sha256": "20774856312843c2a0ea24ab2cf668d05d6a37699a942829a59509d14bae5312"
+  },
+  {
+    "company_id": "Torrent Pharma",
+    "source_date": "2026-03-31",
+    "source": "https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf",
+    "status": "EXTRACTED",
+    "pages": 225,
+    "selected_pages": 16,
+    "sha256": "9080be611370e44d4267b6d7caf063af2a94c1362300dc8977f7fd81377bef99"
+  },
+  {
+    "company_id": "Mankind Pharma",
+    "source_date": "2025-03-31",
+    "source": "https://www.mankindpharma.com/wp-content/uploads/2025/07/annual_report_07.pdf?v=1",
+    "status": "EXTRACTED",
+    "pages": 261,
+    "selected_pages": 10,
+    "sha256": "70d2bca6a8790824f59edb7232b8c6e61f1de6f7070f5e7e15f8487c9fddfb99"
+  },
+  {
+    "company_id": "Alkem Labs",
+    "source_date": "2025-03-31",
+    "source": "https://admin.alkemlabs.com/uploads/Alkem_Labs_AR_2024_25_d712ae10bd.pdf",
+    "status": "EXTRACTED",
+    "pages": 358,
+    "selected_pages": 14,
+    "sha256": "b3dcc0aa62d29aa12116d07e8756d62d3cc5b48a5da5d0b119273c19a80b0625"
+  },
+  {
+    "company_id": "Abbott India",
+    "source_date": "2026-03-31",
+    "source": "https://www.abbott.co.in/content/dam/corp/abbott/en-ind/pdf/financials/2025-26-Annual-Report.pdf",
+    "status": "EXTRACTED",
+    "pages": 253,
+    "selected_pages": 7,
+    "sha256": "29a1478994be438e2e6de0b6115f99931d4b1f90b1c0ffe526a51d2eb24f1933"
+  },
+  {
+    "company_id": "JB Chemicals",
+    "source_date": "2026-03-31",
+    "source": "https://jbpharma.com/download/fy-26-annual-report/?wpdmdl=11209",
+    "status": "EXTRACTED",
+    "pages": 262,
+    "selected_pages": 9,
+    "sha256": "6f3341c2b139332959f9e05a39039cb4bb7165a8be16d3e19e1346b78040d84e"
+  },
+  {
+    "company_id": "Ipca Labs",
+    "source_date": "2025-03-31",
+    "source": "https://www.ipca.com/wp-content/pdf/financials/annual-reports/annual_report_2024_25.pdf",
+    "status": "EXTRACTED",
+    "pages": 270,
+    "selected_pages": 10,
+    "sha256": "7f55f714b3aaf7ec02b05c5b0e4eebc88fc6ca7c8182971dddb57223d5b2a66f"
+  },
+  {
+    "company_id": "Ajanta Pharma",
+    "source_date": "2026-03-31",
+    "source": "https://www.ajantapharma.com/assets/frontend/images/investors/files/annual_results/1781758151_AjantaPharma-AR-2025-26.pdf",
+    "status": "EXTRACTED",
+    "pages": 139,
+    "selected_pages": 7,
+    "sha256": "a5306efee8542e9fd4c6b2202229b5e30448544d59e4c221877941c4c4e8eebf"
+  },
+  {
+    "company_id": "Divi's Labs",
+    "source_date": "2025-03-31",
+    "source": "https://www.divislabs.com/wp-content/uploads/2025/08/Annual-Report-2024-25.pdf",
+    "status": "UNAVAILABLE",
+    "error": "curl: (28) Operation timed out after 60003 milliseconds with 5291273 out of 22545658 bytes received\n"
+  },
+  {
+    "company_id": "Laurus Labs",
+    "source_date": "2026-03-31",
+    "source": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf",
+    "status": "EXTRACTED",
+    "pages": 182,
+    "selected_pages": 6,
+    "sha256": "e688026be6c1ad873dff0a15fae59a36c04b5d21c7bb9858a2458e4083eb6e50"
+  },
+  {
+    "company_id": "Piramal Pharma",
+    "source_date": "2025-03-31",
+    "source": "https://www.piramalpharma.com/Assets/download/SE-Intimation-Annual-Report-Notice%202024-25_sd.pdf",
+    "status": "UNAVAILABLE",
+    "error": "curl: (22) The requested URL returned error: 404\n"
+  },
+  {
+    "company_id": "Biocon",
+    "source_date": "2025-03-31",
+    "source": "https://www.biocon.com/docs/Biocon_Integrated_Annual_Report_2025.pdf",
+    "status": "EXTRACTED",
+    "pages": 421,
+    "selected_pages": 14,
+    "sha256": "e4b43dff0e2164ab738dd73b5217b7e5ab643fffe0e7164d44d8c53fab00f510"
+  },
+  {
+    "company_id": "Gland Pharma",
+    "source_date": "2025-03-31",
+    "source": "https://glandpharma.com/images/Gland%20Pharma_AR%2024-25_0408.pdf",
+    "status": "EXTRACTED",
+    "pages": 334,
+    "selected_pages": 17,
+    "sha256": "49793b7266d7500c93daab6b1d4dbff5dfc3a013c57dc16dad5a085b56338800"
+  },
+  {
+    "company_id": "Jubilant Pharmova",
+    "source_date": "2026-03-31",
+    "source": "https://www.jubilantpharmova.com/Uploads/image/2981imguf_JubilantPharmovaAR2025-26_WebFile_.pdf",
+    "status": "EXTRACTED",
+    "pages": 199,
+    "selected_pages": 12,
+    "sha256": "68595a6483f4742b9fbfc6ee95dca896418175e38f2caf6a40174e2c8aecc4eb"
+  }
+]

@@ -1,0 +1,109 @@
+company_id,fiscal_year,code,severity,metric,value,threshold,explanation
+Abbott India,FY22,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.18181818181818188,0.14129930394431556,Receivables grew faster than revenue
+Abbott India,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.11538461538461542,0.08741614149217325,Receivables grew faster than revenue
+Abbott India,FY24,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.10344827586206895,0.09347541596560105,Receivables grew faster than revenue
+Ajanta Pharma,FY22,DEBT_ACCELERATION,MEDIUM,debt_growth,0.5,0.2,Debt growth exceeds the threshold
+Ajanta Pharma,FY23,DEBT_ACCELERATION,MEDIUM,debt_growth,0.33333333333333326,0.2,Debt growth exceeds the threshold
+Ajanta Pharma,FY25,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.12745098039215685,0.12140650985982426,Receivables grew faster than revenue
+Alkem Labs,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.1164021164021165,0.09074666165130707,Receivables grew faster than revenue
+Alkem Labs,FY24,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.1090047393364928,0.09216311751013029,Receivables grew faster than revenue
+Alkem Labs,FY25,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.11538461538461542,0.09093779602147145,Receivables grew faster than revenue
+Aurobindo Pharma,FY22,REVENUE_DETERIORATION,MEDIUM,revenue_growth,-0.05324130136433358,0,Revenue declined year over year
+Aurobindo Pharma,FY22,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,-0.042276422764227606,-0.05324130136433358,Receivables grew faster than revenue
+Aurobindo Pharma,FY23,DEBT_ACCELERATION,MEDIUM,debt_growth,0.2913385826771653,0.2,Debt growth exceeds the threshold
+Aurobindo Pharma,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.08998302207130737,0.05968876572159454,Receivables grew faster than revenue
+Biocon,FY21,WEAK_CASH_GENERATION,HIGH,fcf_debt,-0.14823529411764705,0.1,Negative free cash flow
+Biocon,FY22,WEAK_CASH_GENERATION,HIGH,fcf_debt,-0.15625,0.1,Negative free cash flow
+Biocon,FY22,DEBT_ACCELERATION,MEDIUM,debt_growth,0.20470588235294107,0.2,Debt growth exceeds the threshold
+Biocon,FY23,HIGH_LEVERAGE,HIGH,debt_ebitda,6.012658227848101,3,Debt / EBITDA exceeds the leverage threshold
+Biocon,FY23,WEAK_COVERAGE,HIGH,interest_coverage,2.6538461538461537,3,EBIT interest coverage is weak
+Biocon,FY23,WEAK_CASH_GENERATION,HIGH,fcf_debt,-0.12894736842105264,0.1,Negative free cash flow
+Biocon,FY23,DEBT_ACCELERATION,MEDIUM,debt_growth,1.96875,0.2,Debt growth exceeds the threshold
+Biocon,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.48584905660377364,0.3653470185728249,Receivables grew faster than revenue
+Biocon,FY23,RISK_MIGRATION,HIGH,score_change,38,10,Financial risk score increased materially year over year
+Biocon,FY24,HIGH_LEVERAGE,HIGH,debt_ebitda,3.6507936507936507,3,Debt / EBITDA exceeds the leverage threshold
+Biocon,FY24,WEAK_COVERAGE,HIGH,interest_coverage,2.142857142857143,3,EBIT interest coverage is weak
+Biocon,FY24,WEAK_CASH_GENERATION,MEDIUM,fcf_debt,0.031159420289855074,0.1,Free cash flow supports less than the threshold share of debt
+Cipla,FY23,RISK_MIGRATION,HIGH,score_change,12,10,Financial risk score increased materially year over year
+Cipla,FY24,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.1848714953271029,0.132773700171406,Receivables grew faster than revenue
+Cipla,FY25,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.1759921123983239,0.09102196011484431,Receivables grew faster than revenue
+Divi's Labs,FY22,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.3392857142857142,0.28569378676998136,Receivables grew faster than revenue
+Divi's Labs,FY23,REVENUE_DETERIORATION,MEDIUM,revenue_growth,-0.13303571428571426,0,Revenue declined year over year
+Divi's Labs,FY23,RISK_MIGRATION,HIGH,score_change,13,10,Financial risk score increased materially year over year
+Divi's Labs,FY24,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.0494505494505495,0.009912461380020554,Receivables grew faster than revenue
+Dr. Reddy's,FY22,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.3448831587429493,0.130033733923677,Receivables grew faster than revenue
+Dr. Reddy's,FY24,DEBT_ACCELERATION,MEDIUM,debt_growth,0.318840579710145,0.2,Debt growth exceeds the threshold
+Dr. Reddy's,FY25,DEBT_ACCELERATION,MEDIUM,debt_growth,1.5659340659340661,0.2,Debt growth exceeds the threshold
+Gland Pharma,FY23,REVENUE_DETERIORATION,MEDIUM,revenue_growth,-0.1763235628266303,0,Revenue declined year over year
+Gland Pharma,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,-0.09183673469387754,-0.1763235628266303,Receivables grew faster than revenue
+Gland Pharma,FY23,RISK_MIGRATION,HIGH,score_change,20,10,Financial risk score increased materially year over year
+Gland Pharma,FY24,DEBT_ACCELERATION,MEDIUM,debt_growth,409.0,0.2,Debt growth exceeds the threshold
+Gland Pharma,FY24,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.7752808988764044,0.5627586206896551,Receivables grew faster than revenue
+Gland Pharma,FY25,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.12658227848101267,0.10326566637246248,Receivables grew faster than revenue
+Glenmark Pharma,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.10576923076923084,0.05566842746850864,Receivables grew faster than revenue
+Glenmark Pharma,FY23,RISK_MIGRATION,HIGH,score_change,18,10,Financial risk score increased materially year over year
+Glenmark Pharma,FY24,WEAK_COVERAGE,HIGH,interest_coverage,1.4320388349514563,3,EBIT interest coverage is weak
+Glenmark Pharma,FY24,REVENUE_DETERIORATION,MEDIUM,revenue_growth,-0.09060816012317163,0,Revenue declined year over year
+Glenmark Pharma,FY24,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,-0.07826086956521738,-0.09060816012317163,Receivables grew faster than revenue
+Ipca Labs,FY22,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.10975609756097571,0.07564575645756455,Receivables grew faster than revenue
+Ipca Labs,FY23,DEBT_ACCELERATION,MEDIUM,debt_growth,5.5,0.2,Debt growth exceeds the threshold
+Ipca Labs,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.15384615384615374,0.07101200686106357,Receivables grew faster than revenue
+Ipca Labs,FY24,DEBT_ACCELERATION,MEDIUM,debt_growth,2.141025641025641,0.2,Debt growth exceeds the threshold
+Ipca Labs,FY24,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.3142857142857143,0.23622677770659828,Receivables grew faster than revenue
+JB Chemicals,FY22,WEAK_CASH_GENERATION,MEDIUM,fcf_debt,0.09375,0.1,Free cash flow supports less than the threshold share of debt
+JB Chemicals,FY22,DEBT_ACCELERATION,MEDIUM,debt_growth,9.666666666666666,0.2,Debt growth exceeds the threshold
+JB Chemicals,FY23,DEBT_ACCELERATION,MEDIUM,debt_growth,0.5,0.2,Debt growth exceeds the threshold
+JB Chemicals,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.3111111111111111,0.2990924092409242,Receivables grew faster than revenue
+JB Chemicals,FY24,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.13559322033898313,0.1063829787234043,Receivables grew faster than revenue
+Jubilant Pharmova,FY22,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.0714285714285714,0.0050828004590917075,Receivables grew faster than revenue
+Jubilant Pharmova,FY23,HIGH_LEVERAGE,HIGH,debt_ebitda,4.1688311688311686,3,Debt / EBITDA exceeds the leverage threshold
+Jubilant Pharmova,FY23,WEAK_COVERAGE,HIGH,interest_coverage,1.5510204081632653,3,EBIT interest coverage is weak
+Jubilant Pharmova,FY23,WEAK_CASH_GENERATION,HIGH,fcf_debt,-0.021806853582554516,0.1,Negative free cash flow
+Jubilant Pharmova,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.06666666666666665,0.024796084828711207,Receivables grew faster than revenue
+Jubilant Pharmova,FY23,RISK_MIGRATION,HIGH,score_change,37,10,Financial risk score increased materially year over year
+Jubilant Pharmova,FY24,HIGH_LEVERAGE,HIGH,debt_ebitda,3.1122448979591835,3,Debt / EBITDA exceeds the leverage threshold
+Jubilant Pharmova,FY24,WEAK_COVERAGE,HIGH,interest_coverage,2.0,3,EBIT interest coverage is weak
+Jubilant Pharmova,FY24,WEAK_CASH_GENERATION,MEDIUM,fcf_debt,0.07868852459016394,0.1,Free cash flow supports less than the threshold share of debt
+Jubilant Pharmova,FY24,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.0803571428571428,0.06892709328239421,Receivables grew faster than revenue
+Jubilant Pharmova,FY25,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.11570247933884303,0.1049888309754281,Receivables grew faster than revenue
+Laurus Labs,FY22,WEAK_CASH_GENERATION,HIGH,fcf_debt,-0.04,0.1,Negative free cash flow
+Laurus Labs,FY22,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.0859375,0.025342750311591278,Receivables grew faster than revenue
+Laurus Labs,FY23,WEAK_CASH_GENERATION,MEDIUM,fcf_debt,0.018867924528301886,0.1,Free cash flow supports less than the threshold share of debt
+Laurus Labs,FY23,DEBT_ACCELERATION,MEDIUM,debt_growth,0.21142857142857152,0.2,Debt growth exceeds the threshold
+Laurus Labs,FY24,HIGH_LEVERAGE,HIGH,debt_ebitda,3.051282051282051,3,Debt / EBITDA exceeds the leverage threshold
+Laurus Labs,FY24,WEAK_COVERAGE,HIGH,interest_coverage,2.4175824175824174,3,EBIT interest coverage is weak
+Laurus Labs,FY24,WEAK_CASH_GENERATION,HIGH,fcf_debt,-0.05042016806722689,0.1,Negative free cash flow
+Laurus Labs,FY24,REVENUE_DETERIORATION,MEDIUM,revenue_growth,-0.16553550736633005,0,Revenue declined year over year
+Laurus Labs,FY24,RISK_MIGRATION,HIGH,score_change,49,10,Financial risk score increased materially year over year
+Lupin,FY22,DEBT_ACCELERATION,MEDIUM,debt_growth,0.2714663143989431,0.2,Debt growth exceeds the threshold
+Lupin,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.05844155844155852,0.014446814995428214,Receivables grew faster than revenue
+Lupin,FY23,RISK_MIGRATION,HIGH,score_change,16,10,Financial risk score increased materially year over year
+Mankind Pharma,FY22,DEBT_ACCELERATION,MEDIUM,debt_growth,2.6936170212765957,0.2,Debt growth exceeds the threshold
+Mankind Pharma,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.328125,0.12426111539450013,Receivables grew faster than revenue
+Mankind Pharma,FY24,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.33333333333333326,0.18127786032689452,Receivables grew faster than revenue
+Mankind Pharma,FY25,DEBT_ACCELERATION,MEDIUM,debt_growth,39.27777777777778,0.2,Debt growth exceeds the threshold
+Mankind Pharma,FY25,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.3088235294117647,0.17851959361393321,Receivables grew faster than revenue
+Mankind Pharma,FY25,RISK_MIGRATION,HIGH,score_change,12,10,Financial risk score increased materially year over year
+Piramal Pharma,FY22,HIGH_LEVERAGE,HIGH,debt_ebitda,3.1677524429967425,3,Debt / EBITDA exceeds the leverage threshold
+Piramal Pharma,FY22,WEAK_CASH_GENERATION,MEDIUM,fcf_debt,0.05141388174807198,0.1,Free cash flow supports less than the threshold share of debt
+Piramal Pharma,FY22,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.14393939393939403,0.13556094182825484,Receivables grew faster than revenue
+Piramal Pharma,FY23,HIGH_LEVERAGE,HIGH,debt_ebitda,5.6506447831184055,3,Debt / EBITDA exceeds the leverage threshold
+Piramal Pharma,FY23,WEAK_COVERAGE,HIGH,interest_coverage,0.9947643979057592,3,EBIT interest coverage is weak
+Piramal Pharma,FY23,WEAK_CASH_GENERATION,HIGH,fcf_debt,-0.04149377593360996,0.1,Negative free cash flow
+Piramal Pharma,FY23,DEBT_ACCELERATION,MEDIUM,debt_growth,0.23907455012853474,0.2,Debt growth exceeds the threshold
+Piramal Pharma,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.11258278145695355,0.07973776490318651,Receivables grew faster than revenue
+Piramal Pharma,FY23,RISK_MIGRATION,HIGH,score_change,35,10,Financial risk score increased materially year over year
+Piramal Pharma,FY24,WEAK_COVERAGE,HIGH,interest_coverage,2.573099415204678,3,EBIT interest coverage is weak
+Piramal Pharma,FY24,WEAK_CASH_GENERATION,MEDIUM,fcf_debt,0.0970873786407767,0.1,Free cash flow supports less than the threshold share of debt
+Piramal Pharma,FY25,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.12169312169312163,0.11981397625749612,Receivables grew faster than revenue
+Sun Pharma,FY22,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.15693632049442674,0.1539196369932534,Receivables grew faster than revenue
+Sun Pharma,FY23,DEBT_ACCELERATION,MEDIUM,debt_growth,3.112648221343873,0.2,Debt growth exceeds the threshold
+Sun Pharma,FY24,LIQUIDITY_PRESSURE,HIGH,current_ratio,0.9600725952813067,1,Current assets are below current liabilities
+Sun Pharma,FY24,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.12509834775767104,0.12056655652857051,Receivables grew faster than revenue
+Sun Pharma,FY25,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.0815850815850816,0.07307668515578292,Receivables grew faster than revenue
+Torrent Pharma,FY22,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.06547619047619047,0.06283572767020607,Receivables grew faster than revenue
+Torrent Pharma,FY23,DEBT_ACCELERATION,MEDIUM,debt_growth,0.355721393034826,0.2,Debt growth exceeds the threshold
+Torrent Pharma,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.14525139664804465,0.13070051716031972,Receivables grew faster than revenue
+Torrent Pharma,FY25,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.11403508771929816,0.10458612975391501,Receivables grew faster than revenue
+Zydus Lifesciences,FY23,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.16463414634146334,0.129184408778251,Receivables grew faster than revenue
+Zydus Lifesciences,FY24,RECEIVABLES_DETERIORATION,MEDIUM,receivables_growth,0.16492146596858648,0.13401403956604985,Receivables grew faster than revenue

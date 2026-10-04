@@ -1,0 +1,94 @@
+{
+  "as_of": "2026-10-04",
+  "status": "EVIDENCE_UPDATE",
+  "changes": [
+    {
+      "company_id": "Sun Pharma",
+      "factor": "regulatory",
+      "previous_score": null,
+      "score": 4,
+      "source": "https://sunpharma.com/wp-content/uploads/2025/09/SEIntimationHalolUpdate.pdf",
+      "source_date": "2025-09-09",
+      "source_location": "PDF page 1; Update on US FDA Inspection at Sun Pharma Halol Facility",
+      "evidence": "The dated company filing reports Halol classified OAI and under an import alert restricting US shipments, subject to shortage exemptions.",
+      "rationale": "Score 4 reflects the documented restriction on facility supply under the regulatory criterion. This dated event is within the configured evidence-age limit; it is not a claim that the restriction remains active today. Verify subsequent remediation/closure and site revenue materiality during priority review."
+    },
+    {
+      "company_id": "Glenmark Pharma",
+      "factor": "regulatory",
+      "previous_score": null,
+      "score": 3,
+      "source": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/glenmark-pharmaceuticals-limited-708270-07112025",
+      "source_date": "2025-07-11",
+      "source_location": "FDA warning letter 320-25-92; Pithampur; Repeat Violations at Multiple Sites",
+      "evidence": "FDA issued a warning letter describing significant CGMP violations at the Pithampur facility and repeated failures across company sites.",
+      "rationale": "Score 3 represents a documented significant regulatory action. The original letter remains within the evidence-age limit, but its presence does not establish current unresolved status. Verify subsequent FDA interactions and closure. Product-production suspension alone does not establish company-wide materiality for score 4."
+    },
+    {
+      "company_id": "Jubilant Pharmova",
+      "factor": "regulatory",
+      "previous_score": null,
+      "score": 3,
+      "source": "https://nsearchives.nseindia.com/corporate/JUBLPHARMA_29052026210904_Exchange_Intimation_USFDA_2026F.pdf",
+      "source_date": "2026-05-29",
+      "source_location": "PDF page 2; company announcement and ownership paragraph",
+      "evidence": "Jubilant disclosed an FDA warning letter for the Kirkland, Canada facility and stated that remediation was underway with operations continuing under enhanced controls. The filing identifies ownership through group subsidiaries.",
+      "rationale": "Score 3 reflects the disclosed significant action affecting a group facility. The May 29 filing establishes parent mapping and status on that date; subsequent closure/current status needs verification. It does not establish an import ban or cessation of current operations."
+    },
+    {
+      "company_id": "Lupin",
+      "factor": "regulatory",
+      "previous_score": null,
+      "score": 3,
+      "source": "https://www.lupin.com/integrated-report-2026/manufacturing-capital.html",
+      "source_date": "2026-03-31",
+      "source_location": "FY26 Manufacturing Capital; Regulatory Compliance and Recalls",
+      "evidence": "The FY26 report discloses one OAI outcome at Pithampur Unit-II, zero warning letters during the year and observations being addressed.",
+      "rationale": "Score 3 reflects the significant OAI outcome rather than recycling historical warning-letter claims from the user narrative. Zero new warning letters does not establish no material issue or closure of earlier actions. Verify post-period remediation."
+    },
+    {
+      "company_id": "Lupin",
+      "factor": "geographic",
+      "previous_score": "2",
+      "score": 2,
+      "source": "https://www.lupin.com/integrated-report-2026/business-review.html",
+      "source_date": "2026-03-31",
+      "source_location": "FY26 Business Review; United States and India sections",
+      "evidence": "The US business contributed 42% of consolidated global revenue; India Formulations contributed about 30%.",
+      "rationale": "The disclosed US share is in the 25\u2013<50% band; the remaining share outside US/India cannot create a larger other-country share. Replaces stale FY25 evidence. This measures geography concentration, not overall export share."
+    },
+    {
+      "company_id": "Abbott India",
+      "factor": "fx",
+      "previous_score": null,
+      "score": 0,
+      "source": "https://www.abbott.co.in/content/dam/corp/abbott/en-ind/pdf/financials/2025-26-Annual-Report.pdf",
+      "source_date": "2026-03-31",
+      "source_location": "PDF pages 234 (foreign currency sensitivity, note 42) and 217 (PAT, note 33)",
+      "evidence": "FY26 sensitivity to a 1% FX move is INR 1.65 crore in profit before tax; annual PAT is INR 1,552.02 crore. A linear 10% shock approximation is INR 16.50 crore, or 1.06% of PAT.",
+      "rationale": "Score 0 applies the <5% band to the quantified balance-sheet monetary-exposure sensitivity. The 1% scenario is scaled linearly to 10%; pre-tax sensitivity is divided by PAT as the configured screening rule specifies. This is not a forecast of total operating FX risk or a guarantee of hedging effectiveness."
+    },
+    {
+      "company_id": "Ajanta Pharma",
+      "factor": "fx",
+      "previous_score": null,
+      "score": 2,
+      "source": "https://www.ajantapharma.com/assets/frontend/images/investors/files/annual_results/1781758151_AjantaPharma-AR-2025-26.pdf",
+      "source_date": "2026-03-31",
+      "source_location": "PDF page 91 (consolidated currency risk) and page 69 (consolidated profit)",
+      "evidence": "FY26 1% FX sensitivity amounts are INR 10.86 crore USD, 0.29 EUR, 0.57 MUR and 0.89 PHP; smaller currencies round to zero. Consolidated PAT is INR 1,056.00 crore. A summed 10% shock approximation of INR 126.10 crore equals 11.94% of PAT.",
+      "rationale": "Score 2 applies the 5\u2013<15% band. The stress scenario scales the disclosed 1% pre-tax sensitivities linearly and sums adverse absolute currency impacts. It is a screening approximation, not a probability or full operating cash-flow forecast; disclosed hedges may affect realised exposure."
+    }
+  ],
+  "user_narratives": 120,
+  "notes": [
+    "The source-directory attachment supplies portals and typical dates, not company-level evidence; only actual dated filings/report sections support scores.",
+    "No financial or market scores changed. No unassessed factor was inferred to be zero.",
+    "New regulatory factors are source-based drafts reflecting dated events, not certified current action status."
+  ],
+  "input_hashes": {
+    "pharma_qualitative_data.csv": "d52cfb1eb4996efeae54f74c6dab6c8d4708c032473af8f2e7c2163b59543b4d",
+    "data/qualitative/user_source_directory.txt": "3f1618ffe4ceaa44617dad3db4ec77296088e67ece8d83ca68976cb97e512435",
+    "data/qualitative_risk.csv": "aabdd60299b3e015be8dea214290111aa24492624c94e578b396e932deaa8008"
+  }
+}

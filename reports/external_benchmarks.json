@@ -1,0 +1,47 @@
+{
+  "checked_on": "2026-10-04",
+  "status": "UNRECONCILED",
+  "scope": "Selected FY25 issuer disclosures and a dated external rating; not a portfolio-wide source audit.",
+  "units_caution": "Issuer disclosed amounts are INR crore; project amounts retain unconfirmed source units and statement scope.",
+  "biocon": {
+    "source": "https://www.biocon.com/biocon-q4fy25-revenue/",
+    "publication_date": "2025-05-08",
+    "period": "FY25",
+    "disclosed_total_revenue": 16470,
+    "disclosed_operating_revenue": 15262,
+    "disclosed_ebitda": 4374,
+    "project_revenue": 16850,
+    "project_ebitda": 4450
+  },
+  "laurus": {
+    "source": "https://www.lauruslabs.com/Investors/PDF/Q4/InvPresentation24042025.pdf",
+    "publication_date": "2025-04-24",
+    "printed_page": 17,
+    "period": "FY25",
+    "disclosed_revenue": 5554,
+    "disclosed_ebitda": 1115,
+    "disclosed_operating_cash_flow": 602,
+    "disclosed_capex": 659,
+    "disclosed_net_debt_ebitda": 2.3,
+    "derived_ocf_minus_capex": -57,
+    "project_revenue": 5680,
+    "project_ebitda": 1120,
+    "project_operating_cash_flow": 890,
+    "project_capex": 650,
+    "project_net_debt_ebitda": 1.7589285714285714,
+    "project_free_cash_flow": 240
+  },
+  "external_rating_context": {
+    "issuer": "Laurus Labs Limited",
+    "source": "https://www.careratings.com/upload/CompanyFiles/PR/202507120700_Laurus_Labs_Limited.pdf",
+    "publication_date": "2025-07-01",
+    "rating": "CARE AA; Stable",
+    "scope": "Long-term bank facilities; consolidated analytical approach",
+    "action": "Reaffirmed; outlook revised from Negative",
+    "negative_sensitivity": "Sustained total debt/PBILDT above 2.75x",
+    "caution": "Not verified as current on 2026-10-04; not a mapping to the project's internal score."
+  },
+  "index_definition_source": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-pharma",
+  "market_prices_source": "data/market_data.csv from cached Yahoo Finance prices; not independently sourced NSE history",
+  "return_convention_caution": "Company adjusted close versus price index; not a matched total-return comparison."
+}

@@ -1,0 +1,121 @@
+company_id,factor,user_narrative,verification_status,input_file
+Sun Pharma,regulatory,Medium-High (US FDA OAI/Warning letters at Halol & Mohali sites),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Sun Pharma,geographic,"High (~65% international, heavy US & Emerging Markets presence)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Sun Pharma,customer,Low (Broad distribution across global wholesalers & retail networks),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Sun Pharma,fx,"High (Significant USD, BRL, RUB, and EM currency exposures)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Sun Pharma,business,"Low-Medium (Balanced portfolio across global specialty, generics & India branded)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Sun Pharma,litigation,"Medium (US antitrust pricing litigation, generic patent challenges)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Dr. Reddy's,regulatory,Medium-High (US FDA Form 483 observations at Duvvada & Srikakulam API units),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Dr. Reddy's,geographic,"High (~70% international, major revenue from US & Russia/CIS)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Dr. Reddy's,customer,"Low (Fragmented buyer base across US, India, and ROW markets)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Dr. Reddy's,fx,"High (Substantial exposure to USD, Ruble, and Euro fluctuations)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Dr. Reddy's,business,"Medium (Pivot toward biosimilars, cell therapy & complex CDMO execution)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Dr. Reddy's,litigation,"Medium-High (Patent litigation on key products like gRevlimid, gSuboxone)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Cipla,regulatory,Medium (US FDA observations / OAI status at Indore and Pithampur facilities),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Cipla,geographic,"Medium (~45% international, strong anchor in India & South Africa)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Cipla,customer,"Low (Diverse retail chemist, hospital, and distributor network)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Cipla,fx,Medium (Primary exposure to USD and South African Rand),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Cipla,business,"Low (Stable, high-margin respiratory & chronic branded generics engine)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Cipla,litigation,Low-Medium (Routine ANDA patent challenges in US respiratory segment),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Zydus Lifesciences,regulatory,Medium (Periodic US FDA inspections across injectables and oral solid sites),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Zydus Lifesciences,geographic,"Medium-High (~55% international, US formulation dependence)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Zydus Lifesciences,customer,Low (Broad wholesale distributor coverage in the US and India),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Zydus Lifesciences,fx,Medium-High (USD sensitivity driven by US formulations market),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Zydus Lifesciences,business,Low-Medium (Strong India formulation base balancing US generic erosion),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Zydus Lifesciences,litigation,Medium (Active patent challenges for high-value generic launches),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Lupin,regulatory,"High (History of US FDA Warning Letters across Tarapur, Somerset, Pithampur)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Lupin,geographic,"High (~65% international, primary focus on US and Japan)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Lupin,customer,Low (Standard pharmaceutical wholesaler and GPO relationships),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Lupin,fx,High (Substantial USD and JPY foreign currency exposure),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Lupin,business,Medium (Execution risk in complex respiratory and biosimilar pipeline),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Lupin,litigation,Medium (US generic pricing class action lawsuits & patent disputes),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Aurobindo Pharma,regulatory,High (Repeated US FDA observations and OAI status across multiple API/formulation plants),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Aurobindo Pharma,geographic,"Very High (~88% international, heavy reliance on US & Europe)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Aurobindo Pharma,customer,Low-Medium (Exposure to top US GPO purchasing alliances),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Aurobindo Pharma,fx,High (Heavy reliance on USD and EUR revenues),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Aurobindo Pharma,business,Medium (Exposure to commodity generic price erosion and API cost volatility),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Aurobindo Pharma,litigation,Medium-High (US antitrust pricing litigation & environmental API claims),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Glenmark Pharma,regulatory,"Medium-High (US FDA import alert on Monroe site, OAI at Baddi formulation plant)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Glenmark Pharma,geographic,"High (~68% international, US, Europe, LatAm, and ROW markets)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Glenmark Pharma,customer,Low (Well-distributed across multi-regional pharmacy chains and trade),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Glenmark Pharma,fx,"High (Multi-currency exposure including USD, BRL, and EUR)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Glenmark Pharma,business,Medium (R&D burn rate for novel NCE/NBE innovation platform Ichnos),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Glenmark Pharma,litigation,"High (DOJ antitrust settlements regarding generic pricing, patent claims)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Torrent Pharma,regulatory,Low-Medium (US FDA Warning Letter resolution underway; Indrad/Dahej facilities),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Torrent Pharma,geographic,"Medium (~48% international, core strength in India and Brazil branded markets)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Torrent Pharma,customer,Low (Highly fragmented retail trade and prescriber base),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Torrent Pharma,fx,"Medium (Exposures primarily in USD, Brazilian Real, and Euro)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Torrent Pharma,business,Low (High proportion of branded chronic formulations ensures cash flow stability),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Torrent Pharma,litigation,Low (Minimal exposure to aggressive US generic patent litigation),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Mankind Pharma,regulatory,Low (Over 95% domestic revenue; low exposure to US FDA regulatory enforcement),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Mankind Pharma,geographic,"Low (~3-5% export revenue, overwhelmingly domestic focus)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Mankind Pharma,customer,"Low (Massive distribution footprint across 500,000+ Indian retail chemists)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Mankind Pharma,fx,Low (Predominantly INR denominated revenue and cost structure),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Mankind Pharma,business,Low (Dominant position in domestic acute/chronic therapy and consumer healthcare),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Mankind Pharma,litigation,"Low (Limited to domestic trademark, brand name, or NPPA pricing disputes)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Alkem Labs,regulatory,Low-Medium (US FDA observations at St. Louis facility; domestic plants compliant),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Alkem Labs,geographic,"Low-Medium (~28% export revenue, predominantly US market)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Alkem Labs,customer,Low (Extensive Indian stockist network and US trade distributors),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Alkem Labs,fx,Low-Medium (USD earnings offset by domestic INR cash flows),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Alkem Labs,business,Low (Entrenched acute leadership in India providing steady recurring cash),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Alkem Labs,litigation,Low-Medium (Minor generic patent litigation in the US market),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Abbott India,regulatory,Low (Governed by global Abbott quality standards; compliant with India CDSCO),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Abbott India,geographic,"Very Low (<2% export revenue, almost 100% India domestic focus)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Abbott India,customer,Low (Nationwide trade channel and hospital distribution networks),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Abbott India,fx,Low (INR revenue base; minor FX risk on imported active raw materials),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Abbott India,business,"Very Low (Monopoly/legacy positions in key therapies like Thyronorm, Duphaston)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Abbott India,litigation,"Low (Routine domestic regulatory, NPPA price ceiling, or tax matters)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+JB Chemicals,regulatory,Low (Panoli and Gujarat facilities possess clean US FDA audit track records),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+JB Chemicals,geographic,"Medium (~40% international, CMO/branded formulations in Russia/CIS, US)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+JB Chemicals,customer,Low-Medium (B2B CDMO partners combined with fragmented domestic trade),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+JB Chemicals,fx,Medium (USD and Ruble currency fluctuation exposure),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+JB Chemicals,business,Low (High-margin domestic chronic portfolio supplemented by CDMO scale),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+JB Chemicals,litigation,Low (Virtually no exposure to high-stakes US ANDA litigation),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Ipca Labs,regulatory,High (Historical US FDA import alerts at Ratlam API and Indore/Silvassa sites),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Ipca Labs,geographic,"Medium (~46% export, strong presence in UK, Europe, Global Fund, ROW)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Ipca Labs,customer,Low (Institutional tenders combined with retail pharmacy distribution),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Ipca Labs,fx,"Medium (GBP, EUR, and USD currency exposure)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Ipca Labs,business,Low-Medium (Strong domestic branded position cushions US market restriction),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Ipca Labs,litigation,Low-Medium (Environmental regulations for heavy API manufacturing),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Ajanta Pharma,regulatory,Low (Exceptional regulatory track record across US FDA inspected sites in Dahej/Paithan),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Ajanta Pharma,geographic,"High (~70% export revenue across US, Africa, Asia, and Middle East)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Ajanta Pharma,customer,Low (Customized branded generic model in emerging markets),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Ajanta Pharma,fx,Medium-High (USD and emerging market currency volatility risks),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Ajanta Pharma,business,Low (First-to-market branded generic strategy in high-growth emerging markets),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Ajanta Pharma,litigation,Low (Focus on non-infringing formulations and first-to-market branded off-patents),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Divi's Labs,regulatory,Low (Impeccable US FDA audit history across Unit I & II manufacturing hubs),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Divi's Labs,geographic,Very High (~88% export revenue to top global Innovator pharmaceutical firms),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Divi's Labs,customer,Medium (Concentrated relationships with top-10 global Big Pharma clients),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Divi's Labs,fx,High (Revenues largely denominated in USD and EUR),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Divi's Labs,business,"Low (Global API cost leadership moat, chemistry IP, custom synthesis stability)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Divi's Labs,litigation,Very Low (B2B API supplier model minimizes direct patent infringement exposure),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Laurus Labs,regulatory,Medium (US FDA inspection observations at Visakhapatnam manufacturing units),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Laurus Labs,geographic,"High (~72% export revenue across ARV APIs, CDMO, and synthesis)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Laurus Labs,customer,Medium (Reliance on global ARV procurement programs and key CDMO sponsors),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Laurus Labs,fx,High (Significant USD earnings volatility risk),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Laurus Labs,business,Medium (Transitioning away from price-sensitive ARV APIs into high-margin CDMO),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Laurus Labs,litigation,Low (Mainly B2B API contract manufacturing and partner-led filings),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Piramal Pharma,regulatory,Medium (US FDA inspections at US sites in Riverview/Lexington and Digwal India),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Piramal Pharma,geographic,"High (~78% export revenue across North America, UK, Europe CDMO)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Piramal Pharma,customer,Low-Medium (Diversified global innovator biotech and pharma customer base),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Piramal Pharma,fx,"High (Multi-currency USD, EUR, and GBP revenue streams)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Piramal Pharma,business,Medium (CDMO cyclicality tied to global biotech funding and R&D budgets),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Piramal Pharma,litigation,Low-Medium (Contractual liabilities in CDMO and specialized health products),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Biocon,regulatory,Medium-High (US FDA pre-approval inspection observations for biosimilar sites),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Biocon,geographic,High (~82% export revenue following Viatris biosimilars acquisition),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Biocon,customer,Low-Medium (Transitioning from partner distribution to direct commercialization),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Biocon,fx,High (Substantial USD and EUR debt and revenue exposure),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Biocon,business,"Medium-High (High capex requirements, fierce biosimilar price competition, debt leverage)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Biocon,litigation,High (Biosimilar BPCIA 'patent dance' litigation with innovator biopharma),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Gland Pharma,regulatory,Medium (US FDA audits at Hyderabad sterile injectable units; Cenexi Europe integration),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Gland Pharma,geographic,"Very High (~84% export revenue, predominantly US B2B sterile injectables)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Gland Pharma,customer,"Medium (B2B marketing partners like Baxter, Hikma, and Fresenius Kabi)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Gland Pharma,fx,High (Dominantly USD and Euro-based business model),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Gland Pharma,business,Low-Medium (High technical entry barriers in complex injectables & CDMO),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Gland Pharma,litigation,Low (Marketing partners bear front-end litigation and patent defense risk),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Jubilant Pharmova,regulatory,High (US FDA Warning Letter at Nanjangud API site; inspection at Montreal Radiopharma),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Jubilant Pharmova,geographic,"High (~83% export revenue, US Radiopharma and Allergy Immunotherapy focus)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Jubilant Pharmova,customer,"Low-Medium (US radiopharmacies, hospitals, and specialized medical clinics)",UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Jubilant Pharmova,fx,High (USD denominated revenue structure),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Jubilant Pharmova,business,Medium (Turnaround execution in US radiopharma network and contract manufacturing),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv
+Jubilant Pharmova,litigation,Low-Medium (Specialized radiopharmaceutical nuclear safety & compliance),UNVERIFIED NARRATIVE,pharma_qualitative_data.csv

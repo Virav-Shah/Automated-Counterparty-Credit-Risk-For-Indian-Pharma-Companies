@@ -1,0 +1,69 @@
+Official regulatory filings, annual report repositories, and reporting dates for Indian pharmaceutical companies can be accessed through standard BSE/NSE exchange portals and company-specific Investor Relations hubs.
+
+### 1. Primary Regulatory Repositories & Search Portals
+
+To pull exact URLs, dates, and section citations for qualitative evidence, use the stock exchange filing archives where annual reports (Form 20-F or Annual Disclosures) and Integrated Annual Reports are mandatorily uploaded:
+
+* **BSE Corporate Announcements Archive:** `[https://www.bseindia.com/corporates/announcements.aspx](https://www.bseindia.com/corporates/announcements.aspx)`
+* **BSE Annual Report Search Hub:** `[https://www.bseindia.com/corporates/AnuReport_new.aspx](https://www.bseindia.com/corporates/AnuReport_new.aspx)`
+* **NSE Corporate Disclosures:** `[https://www.nseindia.com/companies-listing/corporate-filings-announcements](https://www.nseindia.com/companies-listing/corporate-filings-announcements)`
+
+---
+
+### 2. Company-Specific Investor Relations Portals & Filing References
+
+| Company Name | BSE Scrip | NSE Symbol | Official IR / Report Link | Reporting Cycle & Filings Access |
+| --- | --- | --- | --- | --- |
+| **JB Chemicals & Pharma** | 506943 | JBCHEMBARM | `[https://www.jbpharma.com/investors/](https://www.jbpharma.com/investors/)` | Integrated Annual Reports, Statutory Disclosures |
+| **Sun Pharma** | 524715 | SUNPHARMA | `[https://www.sunpharma.com/investors](https://www.sunpharma.com/investors)` | Annual Reports, BRSR Reports, Earnings Transcripts |
+| **Dr. Reddy’s Laboratories** | 500124 | DRREDDY | `[https://www.drreddys.com/investor-centre](https://www.drreddys.com/investor-centre)` | SEC Form 20-F Filings & Integrated Annual Reports |
+| **Cipla** | 500087 | CIPLA | `[https://www.cipla.com/investors](https://www.cipla.com/investors)` | Annual Reports, ESG Disclosures |
+| **Lupin** | 500257 | LUPIN | `[https://www.lupin.com/investors/](https://www.lupin.com/investors/)` | Integrated Reports, Business Responsibility Reports |
+| **Torrent Pharmaceuticals** | 500420 | TORNTPHARM | `[https://www.torrentpharma.com/index.php/investor](https://www.torrentpharma.com/index.php/investor)` | Financial Statements & Statutory Filings |
+| **Zydus Lifesciences** | 532321 | ZYDUSLIFE | `[https://www.zyduslife.com/investors](https://www.zyduslife.com/investors)` | Annual Reports & Statutory Presentations |
+| **Mankind Pharma** | 543904 | MANKIND | `[https://www.mankindpharma.com/investors](https://www.mankindpharma.com/investors)` | Recent IPO disclosures, FY24–FY26 Annual Reports |
+| **Alkem Laboratories** | 539523 | ALKEM | `[https://www.alkemlabs.com/investors.php](https://www.alkemlabs.com/investors.php)` | Integrated Annual Reports & Investor Presentations |
+| **Aurobindo Pharma** | 524804 | AUROPHARMA | `[https://www.aurobindo.com/investors/](https://www.aurobindo.com/investors/)` | Annual Reports & Subsidiary Disclosures |
+
+---
+
+### 3. JB Chemicals: Entity Treatment & Usable History Context
+
+When citing qualitative evidence or setting historical baselines for **JB Chemicals & Pharmaceuticals Ltd (JB Pharma)**:
+
+* **Ownership Baseline Shift (2020):** Following KKR's acquisition in July 2020, company reporting shifted strategy toward domestic formulations, acquired portfolios (e.g., Sanofi India’s pediatric brands, Razel), and contract manufacturing (CDMO). Pre-FY21 qualitative disclosures regarding international market concentration do not reflect the current operational model.
+* **Financial Metadata & Entity Type:**
+* **Reporting Entity:** Consolidated Financial Results (includes overseas subsidiaries such as OOO JB Healthcare Russia and Biotech Laboratories South Africa).
+* **Functional Currency:** Indian Rupee (INR) in Crores ($\text{₹ Cr}$).
+* **Key Filing Source:** `[https://www.jbpharma.com/investors/annual-reports/](https://www.jbpharma.com/investors/annual-reports/)`
+
+
+
+---
+
+### 4. Standard Annual Report Publication Dates (FY25 & FY26)
+
+When matching dates to qualitative evidence and financial updates:
+
+* **FY25 Full-Year Results & Annual Report:**
+* **Audit Approval / Q4 Earnings:** May 2025
+* **Integrated Annual Report Publication:** July – August 2025
+* **AGM Date Range:** August – September 2025
+
+
+* **FY26 Full-Year Results & Annual Report:**
+* **Audit Approval / Q4 Earnings:** May 2026
+* **Integrated Annual Report Publication:** July – August 2026
+* **AGM Date Range:** August – September 2026
+
+
+
+---
+
+### 5. Standard Page / Section Mapping for Qualitative Evidence Extraction
+
+To extract concentrated currency exposure, geographic breakdown, and qualitative risks, standard headings in the Annual Reports across all 20 companies include:
+
+1. **Geographic Concentration & Exports:** *Management Discussion and Analysis (MD&A) $\rightarrow$ Segment-wise or Geography-wise Performance* (typically Pages 60–90 of the Integrated Report).
+2. **Currency Exposure & Financial Risks:** *Notes to Consolidated Financial Statements $\rightarrow$ Note on Financial Instruments & Risk Management (Market Risk / Foreign Currency Sensitivity)* (typically Pages 180–220).
+3. **ESG & Operational Risks:** *Business Responsibility and Sustainability Report (BRSR)* section of the report.

@@ -1,0 +1,95 @@
+{
+  "version": "2.1.0",
+  "benchmark_ticker": "^CNXPHARMA",
+  "benchmark_name": "NIFTY Pharma",
+  "market": {
+    "relative_return_90": {
+      "upper_bounds": [
+        -0.2,
+        -0.1,
+        -0.05
+      ],
+      "points": [
+        35,
+        25,
+        10,
+        0
+      ]
+    },
+    "drawdown_30": {
+      "upper_bounds": [
+        -0.25,
+        -0.15,
+        -0.08
+      ],
+      "points": [
+        30,
+        20,
+        10,
+        0
+      ]
+    },
+    "volatility_ratio": {
+      "lower_bounds": [
+        1.5,
+        2.0,
+        3.0
+      ],
+      "points": [
+        0,
+        5,
+        12,
+        20
+      ]
+    },
+    "volume_ratio": {
+      "lower_bounds": [
+        1.5,
+        2.0,
+        3.0
+      ],
+      "points": [
+        0,
+        5,
+        10,
+        15
+      ]
+    },
+    "status_upper_bounds": [
+      25,
+      50,
+      75
+    ],
+    "status_labels": [
+      "NORMAL",
+      "WATCH",
+      "ELEVATED",
+      "SEVERE"
+    ],
+    "minimum_history": 151,
+    "stale_after_calendar_days": 7,
+    "volatility_baseline_days": 120,
+    "drawdown_window": 30,
+    "trading_days_per_year": 252
+  },
+  "integration": {
+    "financial_stale_after_calendar_days": 540,
+    "financial_fiscal_year_end_month": 3,
+    "financial_fiscal_year_end_day": 31,
+    "confirmation_max_period_gap_days": 180,
+    "fundamental_score_increase": 10,
+    "fundamental_leverage_increase": 0.5,
+    "fundamental_coverage_drop_fraction": 0.2,
+    "fundamental_fcf_debt_drop": 0.05,
+    "relative_market_confirmation": -0.1
+  },
+  "assumptions": [
+    "Financial credit risk and market stress remain separate; market signals increase monitoring intensity without changing the financial credit rating.",
+    "30/90-day returns use trading sessions, not calendar days. Company and benchmark endpoints must match exactly; missing benchmark dates make relative performance unavailable.",
+    "Volatility compares 30 recent daily simple returns with the 120 preceding nonoverlapping daily returns. Volume compares the latest session with the 30 preceding sessions using split-adjusted volume where split events are supplied.",
+    "Drawdown_30 is the current adjusted price relative to the peak in the latest 30 sessions; maximum_drawdown_90 is separately measured peak-to-trough across the latest 90 sessions.",
+    "Adjusted equity closes include dividend/split adjustments, whereas the NIFTY Pharma price index is not a total-return benchmark. Relative performance carries that methodological difference.",
+    "The assumed fiscal year-end is 31 March for financial freshness. FY25 ends 2025-03-31; company reporting dates were not supplied. Confirmation requires fresh layers and a maximum 180-day gap between financial period end and market observation.",
+    "Provider placeholder rows with zero volume, an unchanged prior adjusted close and no benchmark observation on that date are excluded from equity trading windows. The raw CSV is retained and exclusions counted; genuine observations on missing benchmark dates are never imputed or discarded."
+  ]
+}

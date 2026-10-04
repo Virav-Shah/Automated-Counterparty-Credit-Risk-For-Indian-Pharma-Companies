@@ -1,0 +1,156 @@
+{
+  "version": "1.0.0",
+  "expected_companies": 20,
+  "expected_years": [
+    "FY21",
+    "FY22",
+    "FY23",
+    "FY24",
+    "FY25"
+  ],
+  "units": "Source units (currency and scale not supplied)",
+  "leverage": {
+    "upper_bounds": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "points": [
+      0,
+      6,
+      12,
+      20,
+      25
+    ],
+    "upper_inclusive": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "coverage": {
+    "upper_bounds": [
+      2,
+      3,
+      5,
+      8
+    ],
+    "points": [
+      20,
+      15,
+      8,
+      3,
+      0
+    ],
+    "upper_inclusive": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "cash_flow": {
+    "upper_bounds": [
+      0,
+      0.05,
+      0.1,
+      0.2
+    ],
+    "points": [
+      20,
+      15,
+      10,
+      5,
+      0
+    ],
+    "upper_inclusive": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "liquidity": {
+    "upper_bounds": [
+      0.8,
+      1,
+      1.2,
+      1.5
+    ],
+    "points": [
+      15,
+      12,
+      6,
+      2,
+      0
+    ],
+    "upper_inclusive": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "earnings": {
+    "upper_bounds": [
+      -0.1,
+      0,
+      0.05,
+      0.1
+    ],
+    "points": [
+      10,
+      7,
+      4,
+      2,
+      0
+    ]
+  },
+  "working_capital": {
+    "upper_bounds": [
+      0,
+      0.05,
+      0.1,
+      0.2
+    ],
+    "points": [
+      0,
+      2,
+      5,
+      8,
+      10
+    ]
+  },
+  "rating_upper_bounds": [
+    15,
+    30,
+    50,
+    70
+  ],
+  "rating_labels": [
+    "VERY LOW",
+    "LOW",
+    "MODERATE",
+    "HIGH",
+    "CRITICAL"
+  ],
+  "alerts": {
+    "leverage": 3,
+    "coverage": 3,
+    "fcf_debt": 0.1,
+    "current_ratio": 1,
+    "debt_growth": 0.2,
+    "revenue_growth": 0,
+    "receivables_gap": 0,
+    "score_increase": 10
+  },
+  "assumptions": [
+    "Earnings bands were not specified in the planner. Proposed points: growth below -10%: 10; -10% to below 0%: 7; 0% to below 5%: 4; 5% to below 10%: 2; at least 10%: 0.",
+    "Working capital uses the maximum of receivables-growth minus revenue-growth, inventory-growth minus revenue-growth, and zero. Proposed points: gap <=0: 0; >0 to 5 percentage points: 2; >5 to 10: 5; >10 to 20: 8; >20: 10.",
+    "Company-to-peer assignments are provisional analyst assumptions, not assignments supplied by the planner. Review config/peer_groups.csv.",
+    "FY21 lacks FY20 growth inputs. Its total financial score and rating are unavailable; its observed four-component core score is shown out of 80. No missing component is imputed as zero.",
+    "Financial scores are rule-based monitoring indicators, not calibrated default probabilities. Source financial values and reporting scope have not been independently verified."
+  ]
+}
